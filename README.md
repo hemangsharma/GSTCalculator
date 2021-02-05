@@ -1,7 +1,6 @@
 # **GST Calculator**
 
-A simple GUI GST calculator made using **python**
-Download the file to run
+A simple GUI GST calculator made using **python**.Download the file to run
 
 ## **EXE File at Work**
 
